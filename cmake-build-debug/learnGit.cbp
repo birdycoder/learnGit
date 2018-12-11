@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/liuzhuofan/Desktop/workplace/learnGit/cmake-build-debug"/>
+				<Option working_dir="/Users/liuzhuofan/Desktop/learnGit/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/liuzhuofan/Desktop/workplace/learnGit/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/liuzhuofan/Desktop/workplace/learnGit/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/liuzhuofan/Desktop/workplace/learnGit/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/liuzhuofan/Desktop/workplace/learnGit/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/liuzhuofan/Desktop/learnGit/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/liuzhuofan/Desktop/learnGit/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/liuzhuofan/Desktop/learnGit/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/liuzhuofan/Desktop/learnGit/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/liuzhuofan/Desktop/workplace/learnGit/cmake-build-debug"/>
+				<Option working_dir="/Users/liuzhuofan/Desktop/learnGit/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/liuzhuofan/Desktop/workplace/learnGit/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/liuzhuofan/Desktop/workplace/learnGit/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/liuzhuofan/Desktop/workplace/learnGit/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/liuzhuofan/Desktop/workplace/learnGit/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/liuzhuofan/Desktop/learnGit/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/liuzhuofan/Desktop/learnGit/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/liuzhuofan/Desktop/learnGit/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/liuzhuofan/Desktop/learnGit/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/liuzhuofan/Desktop/workplace/learnGit/cmake-build-debug"/>
+				<Option working_dir="/Users/liuzhuofan/Desktop/learnGit/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/liuzhuofan/Desktop/workplace/learnGit/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/liuzhuofan/Desktop/workplace/learnGit/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/liuzhuofan/Desktop/workplace/learnGit/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/liuzhuofan/Desktop/workplace/learnGit/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/liuzhuofan/Desktop/learnGit/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/liuzhuofan/Desktop/learnGit/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/liuzhuofan/Desktop/learnGit/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/liuzhuofan/Desktop/learnGit/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="learnGit">
-				<Option output="/Users/liuzhuofan/Desktop/workplace/learnGit/cmake-build-debug/learnGit" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/liuzhuofan/Desktop/workplace/learnGit/cmake-build-debug"/>
+				<Option output="/Users/liuzhuofan/Desktop/learnGit/cmake-build-debug/learnGit" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liuzhuofan/Desktop/learnGit/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -53,15 +53,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/liuzhuofan/Desktop/workplace/learnGit/cmake-build-debug/Makefile&quot;  VERBOSE=1 learnGit"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/liuzhuofan/Desktop/workplace/learnGit/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/liuzhuofan/Desktop/workplace/learnGit/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/liuzhuofan/Desktop/workplace/learnGit/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/liuzhuofan/Desktop/learnGit/cmake-build-debug/Makefile&quot;  VERBOSE=1 learnGit"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/liuzhuofan/Desktop/learnGit/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/liuzhuofan/Desktop/learnGit/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/liuzhuofan/Desktop/learnGit/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="learnGit/fast">
-				<Option output="/Users/liuzhuofan/Desktop/workplace/learnGit/cmake-build-debug/learnGit" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/liuzhuofan/Desktop/workplace/learnGit/cmake-build-debug"/>
+				<Option output="/Users/liuzhuofan/Desktop/learnGit/cmake-build-debug/learnGit" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liuzhuofan/Desktop/learnGit/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -75,17 +75,17 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/liuzhuofan/Desktop/workplace/learnGit/cmake-build-debug/Makefile&quot;  VERBOSE=1 learnGit/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/liuzhuofan/Desktop/workplace/learnGit/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/liuzhuofan/Desktop/workplace/learnGit/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/liuzhuofan/Desktop/workplace/learnGit/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/liuzhuofan/Desktop/learnGit/cmake-build-debug/Makefile&quot;  VERBOSE=1 learnGit/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/liuzhuofan/Desktop/learnGit/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/liuzhuofan/Desktop/learnGit/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/liuzhuofan/Desktop/learnGit/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/liuzhuofan/Desktop/workplace/learnGit/main.cpp">
+		<Unit filename="/Users/liuzhuofan/Desktop/learnGit/main.cpp">
 			<Option target="learnGit"/>
 		</Unit>
-		<Unit filename="/Users/liuzhuofan/Desktop/workplace/learnGit/CMakeLists.txt">
+		<Unit filename="/Users/liuzhuofan/Desktop/learnGit/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
